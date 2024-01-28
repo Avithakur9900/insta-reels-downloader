@@ -52,7 +52,7 @@ function App() {
       <a href='https://appopener.co.in/ig/8atgj29jc' target='_blank' rel='noreferrer' className='flex gap-2 flex-row justify-center items-center'>
 
         <img className='h-8' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="" srcset="" />
-        <h1 className='text-xl text-black font-semibold font-mono'>Made by Codeiwithbiki</h1>
+        <h1 className='text-xl text-black font-semibold font-mono'>Made by Jigyanshu with ❤️</h1>
       </a>
       <div className="content">
         <h1 className=" text-center p-2 mb-2 text-4xl font-bold bg-gradient-to-r from-fuchsia-500 via-red-600 to-orange-400 inline-block text-transparent bg-clip-text">Instagram Reels Downloader</h1>
